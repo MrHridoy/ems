@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="lib" path="C:/Users/Mr Hridoy/Downloads/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11/lib/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mr Hridoy/Downloads/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11/lib/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mr Hridoy/Downloads/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11/lib/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mr Hridoy/Downloads/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11/lib/protobuf-java-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mr Hridoy/Downloads/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mr Hridoy/Downloads/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mr Hridoy/Downloads/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mr Hridoy/Downloads/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
